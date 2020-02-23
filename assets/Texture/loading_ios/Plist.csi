@@ -1,0 +1,18 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Type="Plist" Name="Plist" ID="14c4683b-cf33-4cc4-a011-a9ebf67a52c7" Version="2.3.2.3" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="True" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="loading_ios/monster0.png" />
+      <FilePathData Path="loading_ios/monster1.png" />
+      <FilePathData Path="loading_ios/monster2.png" />
+      <FilePathData Path="loading_ios/monster3.png" />
+      <FilePathData Path="loading_ios/monster4.png" />
+      <FilePathData Path="loading_ios/monster5.png" />
+      <FilePathData Path="loading_ios/Fun-Galaxy-Media.png" />
+      <FilePathData Path="loading_ios/star3.png" />
+      <FilePathData Path="loading_ios/star4.png" />
+      <FilePathData Path="loading_ios/star5.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

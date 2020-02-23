@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "ac7b4705-6a4a-4d6f-8788-3b1a53e2a3b5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "schoolglue_shadow": {
+      "ver": "1.0.4",
+      "uuid": "b3082acd-03e6-4c3b-bb93-d5e3b66ab26b",
+      "rawTextureUuid": "ac7b4705-6a4a-4d6f-8788-3b1a53e2a3b5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -152,
+      "trimX": 0,
+      "trimY": 304,
+      "width": 167,
+      "height": 56,
+      "rawWidth": 167,
+      "rawHeight": 360,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

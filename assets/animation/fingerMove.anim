@@ -1,0 +1,64 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "fingerMove",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 4,
+  "sample": 5,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {},
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 2,
+          "value": [
+            -250,
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 2.2,
+          "value": [
+            -71.48100280761719,
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 4,
+          "value": [
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 255
+        },
+        {
+          "frame": 2,
+          "value": 255
+        },
+        {
+          "frame": 2.2,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

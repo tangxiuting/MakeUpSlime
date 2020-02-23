@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "c200d7e7-8a88-4bc7-af94-562056f2d5de",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "bowl_liquid-foundation0": {
+      "ver": "1.0.4",
+      "uuid": "e7e9d338-fb85-4932-a26a-882b56e839c6",
+      "rawTextureUuid": "c200d7e7-8a88-4bc7-af94-562056f2d5de",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 69,
+      "height": 171,
+      "rawWidth": 69,
+      "rawHeight": 171,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

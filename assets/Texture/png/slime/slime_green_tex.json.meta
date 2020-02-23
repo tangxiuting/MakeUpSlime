@@ -1,0 +1,7 @@
+{
+  "ver": "1.0.0",
+  "uuid": "da9238a1-7920-42ca-83c3-22f2c2637815",
+  "atlasJson": "{\"SubTexture\":[{\"x\":564,\"y\":1456,\"width\":458,\"name\":\"motion0_slime\",\"height\":439},{\"x\":1,\"y\":1456,\"width\":561,\"name\":\"motion1_slime\",\"height\":441},{\"x\":1,\"y\":1049,\"width\":657,\"name\":\"motion2_slime\",\"height\":405},{\"x\":1,\"y\":369,\"width\":796,\"name\":\"motion3_slime\",\"height\":357},{\"x\":1,\"y\":1,\"width\":864,\"name\":\"motion4_slime\",\"height\":366},{\"x\":1,\"y\":728,\"width\":854,\"name\":\"motion5_slime\",\"height\":319}],\"width\":1024,\"name\":\"slime_green\",\"imagePath\":\"slime_green_tex.png\",\"height\":2048}",
+  "texture": "45edf5de-6452-46d9-87c8-df530524642f",
+  "subMetas": {}
+}
